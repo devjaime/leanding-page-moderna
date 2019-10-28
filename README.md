@@ -1,6 +1,6 @@
 # leanding-page-moderna
 Proyecto de leanding page sin framework
-
+![Versión ](https://github.com/devjaime/leanding-page-moderna/blob/master/documentacion/loandig-page-moderna.gif)
 #Recursos usados para crear el proyecto:
 ## Freepick:
 
