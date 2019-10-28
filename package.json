@@ -1,22 +1,15 @@
 {
-  "name": "leanding-page-moderna",
-  "version": "1.0.0",
-  "description": "Proyecto de leanding page sin framework",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/devjaime/leanding-page-moderna.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/devjaime/leanding-page-moderna/issues"
-  },
-  "homepage": "https://github.com/devjaime/leanding-page-moderna#readme",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+    "name": "loanding-page-moderna",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "lite-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
 }
